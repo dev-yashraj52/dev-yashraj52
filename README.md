@@ -21,7 +21,7 @@
 A Flutter-based inventory management app designed for small businesses.
 
 🔗
-https://github.com/dev-yashraj52/store-management-app
+https://github.com/dev-yashraj52/storeManager
 
 ---
 
