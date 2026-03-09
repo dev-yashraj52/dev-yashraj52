@@ -1,7 +1,7 @@
 <!-- Animated Typing Intro -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Yashraj;Flutter+Developer;Building+Real+World+Apps;Learning+Everyday&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Yash+raj;Flutter+Developer;Building+Real+World+Apps;Learning+Everyday&center=true&width=500&height=50">
 </p>
 
 <h1 align="center">👋 Welcome to my GitHub</h1>
