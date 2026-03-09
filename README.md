@@ -76,4 +76,4 @@ https://github.com/dev-yashraj52/storeManager
 
 ## 📫 Connect With Me
 
-LinkedIn: Add your LinkedIn link here
+LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/yashraj52/)
