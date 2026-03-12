@@ -21,7 +21,18 @@
 A Flutter-based inventory management app designed for small businesses.
 
 🔗
-https://github.com/dev-yashraj52/storeManager
+[StoreManager](https://github.com/dev-yashraj52/storeManager)
+
+---
+
+## 🚀 Collaboration Project with [Anshu78780](https://github.com/Anshu78780)
+
+📦 **Store Manager App**
+
+A Flutter-based inventory management app designed for small businesses.
+
+🔗
+[Sangeet Music App](https://github.com/Anshu78780/sangeet)
 
 ---
 
