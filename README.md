@@ -27,7 +27,7 @@ A Flutter-based inventory management app designed for small businesses.
 
 ## 🚀 Collaboration Project with [Anshu78780](https://github.com/Anshu78780)
 
-📦 **Store Manager App**
+📦 **Sangeet - Online Music App**
 
 A Flutter-based online Music Player which can fetch music from different providers like Spotify, YT Music, Apple Music, etc.
 
