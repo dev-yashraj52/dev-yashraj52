@@ -39,7 +39,7 @@ A Flutter-based online Music Player which can fetch music from different provide
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,javascript,git,github,vscode,androidstudio,cpp" />
 </p>
 
 ---
